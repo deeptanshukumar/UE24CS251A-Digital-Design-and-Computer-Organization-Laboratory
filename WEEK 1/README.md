@@ -20,3 +20,4 @@ Write a Verilog program to model a two-input XOR gate. Generate the VVP output a
 
 ### Program 7: Two-input XNOR Gate
 Write a Verilog program to model a two-input XNOR gate. Generate the VVP output and simulation waveform using GTKWave. Verify the output and waveform against the XNOR gate truth table.
+
